@@ -1,48 +1,63 @@
-<h2 align="left">Hey! I'm Anood Shahwar 🌸, a Software Engineering student from Pakistan.</h2>
-
-<p align="left">I enjoy building smooth, user-friendly experiences using code & creativity. Currently exploring Flutter, Dart, Unity, and C++, learning one line at a time 💻✨</p>
-
-<br>
+<h1 align="center">🌸 Anood Shahwar — quietly building cool things</h1>
 
 <p align="center">
-  🚧 Under construction! My GitHub journey has just begun. Stay tuned for exciting builds and growth 🚀
+  BS Software Engineering student | Fueled by passion, pixels, and anything with too much sauce 🍜  
 </p>
 
-<br>
+---
 
-<img align="right" height="160" src="https://i.pinimg.com/originals/29/6a/97/296a97ed4a36cd86f0a7c5a96f377293.gif" alt="coding gif" />
+### 💭 Who am I?
 
-### 🧰 Tech Stack
+Hi! I’m Anood — a little quiet, a little cozy, very into building stuff that *feels good to use*  
+Currently figuring out how to turn ideas into apps & games — slowly but surely 🎮📱
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity" />
-</div>
+- 🛠️ Learning by building — currently exploring Unity + Flutter  
+- 🎨 Into clean design, smooth UIs, and small creative projects  
+- 🌱 Still early in the journey, but showing up one line at a time  
 
-<br>
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/anoodshahwar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=7A5FC0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin badge" />
-  </a>
-</div>
+### 🧰 Tech Stack I’ve Played With
 
-<br>
+**Languages:**  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 🎯 Currently
-- Learning Unity & C#.
-- Building mobile apps with Flutter.
-- Exploring game development workflows.
-- Practicing clean, efficient code (and enjoying the process!).
+**Frameworks & Tools:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-<br clear="both">
+---
 
-<!-- 🐍 Snake animation (centered and from your repo) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnoodShahwar/snk/manual-run-output/only-svg/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+### 🧪 What I’m Working On
+
+- A Unity 2D game clone (learning movement, collisions, and not rage quitting)  
+- Improving my Flutter UIs — smoother, prettier, smarter  
+- Building confidence one project at a time 💫  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnoodShahwar&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnoodShahwar&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+---
+
+### 🌍 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/anood-shahwar-5635922aa/)  
+- 💌 anoodshahwar@gmail.com  
+
+---
+
+<p align="center"><i>Still learning. Still building. Still showing up.</i></p>
