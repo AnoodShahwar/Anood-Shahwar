@@ -8,11 +8,11 @@
 
 ### 💭 Who am I?
 
-Hi! I’m Anood — a little quiet, a little cozy, very into building stuff that *feels good to use*.  
-Currently figuring out how to turn ideas into apps & games — slowly but surely 🎮📱
+Hi! I’m Anood, a little quiet, a little cozy, very into building stuff that *feels good to use*.  
+Currently figuring out how to turn ideas into apps & games, slowly but surely 🎮📱
 
-- 🛠️ Learning by building — currently exploring Unity + Flutter  
-- 🎨 Designing and developing intuitive UIs — whether it’s a small game or a chill mobile app  
+- 🛠️ Learning by building; currently exploring Unity + Flutter  
+- 🎨 Designing and developing intuitive UIs whether it’s a small game or a chill mobile app  
 - 🌱 Still early in my journey, but showing up one line at a time  
 
 ---
