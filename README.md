@@ -2,6 +2,9 @@
 <p align="center">
   BS Software Engineering student | Fueled by passion, pixels, and anything with too much sauce 🍜
 </p>
+<p align="center">
+  <img src="github-octopuss.gif" width="80" />
+</p>
 
 ---
 
