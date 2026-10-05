@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Anood Shahwar — quietly building cool things</h1>
+<h1 align="center">🌸 Anood Shahwar </h1>
 <p align="center">
   BS Software Engineering student | Fueled by passion, pixels, and anything with too much sauce 🍜
 </p>
@@ -46,4 +46,4 @@ I build things that *feel good to use*, from GTA-themed portfolios to campus app
 
 ---
 
-<p align="center"><i>BSSE student. Wanted in 3 states for making Flutter apps look too good.</i></p>
+
